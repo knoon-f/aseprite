@@ -1,4 +1,4 @@
-版权
+
 name: build
 on: [push, pull_request]
 jobs:
